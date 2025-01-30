@@ -1,7 +1,7 @@
 # Drools Rules Application Guide
 
 ## Overview
-This guide will help you run and use the Drools Rules application effectively. Follow these steps to get started.
+This guide will help you run and use the Drools Rules application effectively. Follow these steps to get started. This application is for a banking study service for credit granting, which will determine whether a client can receive a loan and the interest rate of the granted loan, provided that certain established conditions are met.
 
 ## Prerequisites
 - Java JDK 8 or higher
