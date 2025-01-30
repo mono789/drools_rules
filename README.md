@@ -12,7 +12,7 @@ This guide will help you run and use the Drools Rules application effectively. F
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/drools-project.git
+git clone https://github.com/mono789/drools_rules.git
 ```
 2. Navigate to project directory:
 ```bash
